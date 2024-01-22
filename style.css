@@ -1,0 +1,47 @@
+.heading1{
+     color: red;
+}
+.heading2{
+    color: #56e70e;
+}
+#myheading{
+    font-size: 40px;
+}
+#test{
+    font-size: large;
+}
+.emoblis{
+    background-color: aqua;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.mytest{
+    display: flex;
+    background-color: lavenderblush;
+    padding: 20px;
+}
+.paragraph1{
+    margin-left: 30px;
+}
+.main{
+    display: flex;
+}
+.paragraph{
+    color: rosybrown;
+    background-color: blue;
+}
+.paragraph2{
+    color: lavender;
+    background-color: red;
+}
+.paragraph3{
+    color: yellow;
+    background-color: green;
+}
+
+
+
+
